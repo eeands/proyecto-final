@@ -1,0 +1,44 @@
+.background{
+margin: 0px;
+text-align: center;
+height: 50vh;
+background-color:#008080;
+text-decoration-color: white;
+left: 15%;
+}
+
+h1{
+    text-align: center;
+    height: 15vh;
+    margin: 50px;
+    background-color:beige;
+    
+    
+    
+}
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    right: 20%;
+    margin: 10%;
+
+}
+
+.jean {
+    width: 20%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin: 0%;
+    border:2px solid black
+    
+}
+
+
+body{
+    background-color: #808080;
+    
+}
+p{
+
+}
